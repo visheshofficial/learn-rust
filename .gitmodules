@@ -1,0 +1,6 @@
+[submodule "rustlings"]
+	path = rustlings
+	url = https://github.com/rust-lang/rustlings.git
+[submodule "rustling"]
+	path = rustling
+	url = https://github.com/rust-lang/rustlings.git
